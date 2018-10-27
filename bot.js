@@ -12,7 +12,6 @@ client.user.setPresence({
   game: { 
      type: 0,
      name: '•●{رَمِضّاِنُ كـــًرًيَـــمً ~☾',
-     details: للهم أختم بالصالحات أعمالنا,
      url: 'http://twitch.tv/M7md_Salih',
      state: في ڪڸ سن? هنآڪ شهر يجعڸني أإڪثر قرباً من ربي {شهر رمضآن},
     application_id: '394600839496466443',
