@@ -13,7 +13,6 @@ client.user.setPresence({
      type: 0,
      name: '•●{رَمِضّاِنُ كـــًرًيَـــمً ~☾',
      url: 'http://twitch.tv/M7md_Salih',
-     state: في ڪڸ سن? هنآڪ شهر يجعڸني أإڪثر قرباً من ربي {شهر رمضآن},
     application_id: '394600839496466443',
      assets: {
         small_image: 444859352093032449,
