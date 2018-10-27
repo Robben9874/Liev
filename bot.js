@@ -18,7 +18,6 @@ client.user.setPresence({
         small_image: 444859352093032449,
         small_text: '2018',
         large_image: 444864778465181706,
-        large_text: Ramadan Mubarak }
 
   }
     });
